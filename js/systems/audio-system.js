@@ -18,7 +18,7 @@ const playlist = [
     artist:    'bdayitingg',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
-    startTime: 50,       // seconds — where playback begins
+    startTime: 0,       // seconds — where playback begins
     endTime:   null,    // seconds — where it ends/loops (null = full track)
     loopStart: null,    // loop rewind point (null = startTime)
     volume:    0.75,
